@@ -68,7 +68,7 @@ namespace Task1_IlayBiton
 
         public override void Reproduction()
         {
-            Console.WriteLine("Reptile is .. 🤫🤫🤫🤫🤫");
+            Console.WriteLine("Reptile is .. ");
         }
 
     }

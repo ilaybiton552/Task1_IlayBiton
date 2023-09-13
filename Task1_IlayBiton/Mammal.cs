@@ -62,7 +62,7 @@ namespace Task1_IlayBiton
 
         public override void Reproduction()
         {
-            Console.WriteLine("Mamml is .. 🤫🤫🤫🤫🤫");
+            Console.WriteLine("Mamml is ..");
         }
     }
 }

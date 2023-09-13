@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task1_IlayBiton.Animal">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAABEIBAQAAEAABJAAABAAAEAAgAAAAARAAABAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IlayBiton.Bird">
+    <Position X="2" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiABAAICICAEAAABAAABAAIAgAAAAEAgAAAAAAA=</HashCode>
+      <FileName>Bird.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task1_IlayBiton.Mammal">
+    <Position X="8.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAgBEAAAAAAEIAABAAABAAAIAAAAAAAAIAAAAAI=</HashCode>
+      <FileName>Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IlayBiton.Reptile">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAABAAEAAAAEAAABAAABAABAAAAAQEAAAAAAAAA=</HashCode>
+      <FileName>Reptile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task1_IlayBiton.Cow">
+    <Position X="7.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAECAAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IlayBiton.Hipo">
+    <Position X="9.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAQEAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Hipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IlayBiton.Snake">
+    <Position X="5.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAIAAACAAAAIAAAAACA=</HashCode>
+      <FileName>Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IlayBiton.Crocodile">
+    <Position X="3" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAABABAAAAA=</HashCode>
+      <FileName>Crocodile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IlayBiton.Pythonidae">
+    <Position X="5.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAgAAAAAAAA=</HashCode>
+      <FileName>Pythonidae.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IlayBiton.Hoopoe">
+    <Position X="1" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAEACAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hoopoe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Task1_IlayBiton.IBird">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAA=</HashCode>
+      <FileName>IBird.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task1_IlayBiton.IReptile">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IReptile.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
